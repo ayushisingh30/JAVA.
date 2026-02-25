@@ -1,3 +1,4 @@
+package nested_if;
 public class nested_if_age {
     public static void main(String[] args) {
         int age= 20;

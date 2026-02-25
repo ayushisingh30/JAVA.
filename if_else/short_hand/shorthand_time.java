@@ -1,3 +1,4 @@
+package short_hand;
 public class shorthand_time {
     public static void main(String[] args) {
         int time = 20;

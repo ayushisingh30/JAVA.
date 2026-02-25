@@ -1,3 +1,4 @@
+package short_hand;
 public class short_hand_nested {
     public static void main(String[] args) {
         int time = 22;
