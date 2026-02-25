@@ -1,5 +1,5 @@
 // and is used when both condition is true 
-
+package logical_operators;
 public class AND {
     public static void main(String[]args){
         int a = 200;
