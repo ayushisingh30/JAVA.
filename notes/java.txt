@@ -1,0 +1,21 @@
+Java is popular and powerful programming language created in 1995.
+owned by oracle and more than 3 billion devices run java 
+used for
+
+Mobile applications (specially Android apps)
+Desktop applications
+Web applications
+Web servers and application servers
+Games
+Database connection
+
+** WHY USE JAVA ?**
+works on diffrent platform such as windows , mac, linux , raspbery pi etc 
+most popular langauage in the world 
+large demad in the current job market 
+easy to learn and simple to use 
+open source and free 
+secure ,fast and powerful
+huge community support (ten million of developer )
+it is an object oriented language which gives a clear structure to programs and allows code to be reused , lowering development costs 
+
