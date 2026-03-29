@@ -5,4 +5,4 @@ example : Main
 NOTE: java is case sensitive 
 Myclass and myclass would be treated as two completely different names .
 
-the name of the java file must match the class name . so if class is called Main , the file must be saved as Main.java ok
+the name of the java file must match the class name . so if class is called Main , the file must be saved as Main.java 
