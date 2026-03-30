@@ -1,0 +1,16 @@
+comaprision operators are used to compare two values or variables . this is important in programming because it helps us to find answers and make decision .
+
+the return value of a comparison is either true or false .
+these are also known as boolean values 
+
+we use greater than operator to find whether the value is greter or not .
+
+A list of all comparison operators:
+
+Operator	Name	Example	Try it
+==	Equal to	x == y	
+!=	Not equal	x != y	
+>	Greater than	x > y	
+<	Less than	x < y	
+>=	Greater than or equal to	x >= y	
+<=	Less than or equal to	x <= y

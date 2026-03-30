@@ -1,0 +1,3 @@
+as with comparison operators we can also test for true and false values with logical operators 
+
+logical operators are used to determine the logic between variable or values by combining multiple comditions 
