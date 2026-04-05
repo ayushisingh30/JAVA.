@@ -1,6 +1,6 @@
 every line of code that runs in java must be inside a class .
 class name should always start with and uppercase first letter 
-example : Main ok
+example : Main 
 
 NOTE: java is case sensitive 
 Myclass and myclass would be treated as two completely different names .
